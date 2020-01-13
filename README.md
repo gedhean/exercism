@@ -1,0 +1,3 @@
+# exercism
+
+Coding practice \o/
