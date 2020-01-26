@@ -23,6 +23,6 @@ module ResistorColorDuo
   def self.value(colors)
     first, second = colors
 
-    (COLOR_CODES[first.downcase] + COLOR_CODES[second.downcase]).to_i
+    (COLOR_CODES[first] + COLOR_CODES[second]).to_i
   end
 end
